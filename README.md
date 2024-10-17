@@ -43,8 +43,8 @@
 
 ## 📫 Contact
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- **Email**: k0j4h25@hanmail.net
+- **GitHub**: https://github.com/kjh425
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
