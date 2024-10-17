@@ -44,7 +44,7 @@
 
 ### 복지찬스  
 - **플랫폼**: [Play Store](https://play.google.com/store/search?q=%EB%B3%B5%EC%A7%80%EC%B0%AC%EC%8A%A4&c=apps), [App Store](https://apps.apple.com/kr/app/%EB%B3%B5%EC%A7%80%EC%B0%AC%EC%8A%A4/id6566186601)
-- **설명**: 복지 정보 제공을 위한 어플리케이션
+- **설명**: 사내(공동) 노동 복지 기금의 효율적인 관리를 위해 설계된 종합 프로그램
 - **기여도**: 전체 개발 및 배포
 
 ---
