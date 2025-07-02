@@ -2,7 +2,7 @@
 # 👨‍💻 Kim Jun Han's Portfolio
 
 안녕하세요! 저는 개발자 김준한입니다.  
-**1년차 개발자**로서 다양한 웹 및 모바일 애플리케이션 프로젝트를 수행하며, **Java**를 주력으로 사용하고 있습니다.  
+**2년차 개발자**로서 다양한 웹 및 모바일 애플리케이션 프로젝트를 수행하며, **Java**를 주력으로 사용하고 있습니다.  
 사용자 경험을 향상시키기 위한 백엔드 및 프론트엔드 기술을 폭넓게 다루고 있습니다.
 
 ---
@@ -33,6 +33,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ### Databases
