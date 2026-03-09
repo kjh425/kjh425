@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header" />
-# 👨‍💻 Kim Jun Han's Portfolio
+# 👨‍💻 Kim Jun Han's GitHub
 
 안녕하세요.  
 **Java 기반 백엔드 개발을 중심으로 웹·모바일 전반을 아우르는 문제 해결형 개발자 김준한**입니다.
