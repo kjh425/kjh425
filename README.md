@@ -8,7 +8,7 @@
 저는 단순히 기능을 구현하는 것보다,  
 **실제 서비스가 안정적으로 운영되기 위해 필요한 개발, 배포, 보안, 장애 대응까지 함께 고민하는 개발자**를 지향합니다.
 
-2년 이상의 실무 경험을 바탕으로  
+3년차 개발자로
 공공기관 홈페이지, 복지몰, 모바일 앱, 관리자 시스템 등 다양한 서비스를 운영하며  
 **Java, Spring, Spring Boot, Oracle, PostgreSQL, React, React Native, AWS, Docker, Jenkins, GitLab** 등을 활용해왔습니다.
 
