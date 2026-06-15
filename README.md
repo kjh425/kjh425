@@ -89,7 +89,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/WebView-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </p>
@@ -259,25 +258,6 @@
 또한 React와 React Native를 함께 다루며  
 백엔드 API가 실제 사용자 화면에서 어떻게 사용되는지 이해하고,  
 프론트엔드와 모바일 환경까지 고려한 실용적인 개발을 지향합니다.
-
----
-
-## 📚 Currently Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java_21-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</p>
-
-- Spring Boot 3.x 기반 백엔드 구조 설계
-- Java 17 / 21 기반 프로젝트 빌드 및 운영 환경 구성
-- Kafka 기반 메시징 처리
-- Docker / Kubernetes 기반 컨테이너 운영
-- Jenkins / GitLab 기반 CI/CD 고도화
-- React Admin 기반 관리자 시스템 구조 개선
 
 ---
 
